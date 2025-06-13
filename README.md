@@ -1,6 +1,9 @@
 # RollbetAutoFreeCaseBattle
 Script to automatically join Free Battles on rollbet.gg
 
+<details>
+<summary>Tips for collapsed sections</summary>
+
 # Steps for manual use (need to be runned again on every page refresh)
 There is 2 ways for manual use, bookmark(faster) and console, but i will only cover the bookmark part
 
@@ -11,3 +14,5 @@ and then set the URL of the bookmark you created to a code here below.
 ```
 eval(eval(await(await fetch('https://raw.githubusercontent.com/itaplyr/RollbetAutoFreeCaseBattle/refs/heads/main/script')).text()))
 ```
+
+</details>

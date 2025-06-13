@@ -8,6 +8,6 @@ You just need to crate a bookmark, set the name to something like "autoFreeBattl
 and then set the URL of the bookmark you created to a code here below.
 
 # make sure to copy all or it wont work
-'''
+```
 eval(eval(await(await fetch('https://raw.githubusercontent.com/itaplyr/RollbetAutoFreeCaseBattle/refs/heads/main/script')).text()))
-'''
+```

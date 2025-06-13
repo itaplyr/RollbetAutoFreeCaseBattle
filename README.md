@@ -2,9 +2,8 @@
 Script to automatically join Free Battles on rollbet.gg
 
 <details>
-<summary>Tips for collapsed sections</summary>
+<summary># Steps for manual use (need to be runned again on every page refresh)</summary>
 
-# Steps for manual use (need to be runned again on every page refresh)
 There is 2 ways for manual use, bookmark(faster) and console, but i will only cover the bookmark part
 
 You just need to crate a bookmark, set the name to something like "autoFreeBattle" (your choice, it doesnt matter)

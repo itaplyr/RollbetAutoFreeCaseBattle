@@ -5,11 +5,19 @@ There is 2 ways for manual use, bookmark(faster) and console, but i will only co
 automatic mode is not finished yet but will be implemented in the very near future
 
 <details>
-<summary>Steps for manual use (need to be runned again on every page refresh)</summary>
   
-# You just need to crate a bookmark, set the name to something like "autoFreeBattle" (your choice, it doesnt matter) and then set the URL of the bookmark you created to a code here below. (make sure to copy all or it wont work)
-```
-eval(eval(await(await fetch('https://raw.githubusercontent.com/itaplyr/RollbetAutoFreeCaseBattle/refs/heads/main/script')).text()))
-```
+  <summary>Steps for manual use (need to be runned again on every page refresh)</summary>
+    
+  # You just need to crate a bookmark, set the name to something like "autoFreeBattle" (your choice, it doesnt matter) and then set the URL of the bookmark you created to a code here below. (make sure to copy all or it wont work)
+  ```
+  eval(eval(await(await fetch('https://raw.githubusercontent.com/itaplyr/RollbetAutoFreeCaseBattle/refs/heads/main/script')).text()))
+  ```
+
+</details>
+
+<details>
+
+  <summary>Steps for automatic use(Works automatically and has configurable settings)</summary>
+  # there is no automatic mode for now, but you can install tampermonkey as it will be available on that platform
 
 </details>

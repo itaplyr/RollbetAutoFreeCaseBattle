@@ -18,6 +18,7 @@ automatic mode is not finished yet but will be implemented in the very near futu
 <details>
 
   <summary>Steps for automatic use(Works automatically and has configurable settings)</summary>
-  # there is no automatic mode for now, but you can install tampermonkey as it will be available on that platform
+  
+  # There is no automatic mode for now, but you can install tampermonkey as it will be available on that platform
 
 </details>

@@ -2,7 +2,7 @@
 Script to automatically join Free Battles on rollbet.gg
 
 <details>
-<summary># Steps for manual use (need to be runned again on every page refresh)</summary>
+<summary>Steps for manual use (need to be runned again on every page refresh)</summary>
 
 There is 2 ways for manual use, bookmark(faster) and console, but i will only cover the bookmark part
 
